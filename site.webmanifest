@@ -1,5 +1,5 @@
 {
-  "name": "Your Discord server name here",
+  "name": "Fighting Server",
   "short_name": "",
   "icons": [
     {
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#7289da",
-  "background_color": "#36393f",
+  "theme_color": "#176A32",
+  "background_color": "#176A32",
   "display": "standalone"
 }
